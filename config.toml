@@ -1,0 +1,4 @@
+baseURL = "https://www.metalgearstatic.com/"
+languageCode = "en-us"
+title = "Metal Gear Static"
+googleAnalytics = "xc"
